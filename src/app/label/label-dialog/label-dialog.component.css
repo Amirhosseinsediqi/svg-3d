@@ -1,0 +1,6 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+.example-full-width {
+    width: 50%;
+    display: block;
+}

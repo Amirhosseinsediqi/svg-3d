@@ -1,0 +1,8 @@
+<button
+    class="z-index create-label"
+    #createLabelBtn
+    cdkDrag
+    (cdkDragEnded)="setLabelPosition($event)"
+    (click)="openDialog()">
+    Create Label
+</button>

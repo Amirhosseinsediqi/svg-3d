@@ -1,0 +1,10 @@
+.mysvg {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+}
+
+.mysvg {
+    width: 95vw;
+    height: 95vh;
+}
